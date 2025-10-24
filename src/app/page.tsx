@@ -26,7 +26,7 @@ export default function Home() {
             { name: "Location", id: "location" },
             { name: "Contact", id: "contact" }
           ]}
-          brandName="Tony's Pizza"
+          brandName="qwfqwfqwfqfw"
           button={{
             text: "Order Now",
             href: "https://order.tonys-pizza.com"
@@ -36,7 +36,7 @@ export default function Home() {
 
       <div id="hero" data-section="hero">
         <HeroBillboard
-          title="Authentic Italian Pizza"
+          title="qwfqwfqwfqwfqwf"
           description="Fresh ingredients, traditional recipes, and wood-fired perfection delivered to your door"
           tag="Since 1985"
           tagIcon={Pizza}
@@ -50,7 +50,7 @@ export default function Home() {
               href: "menu"
             }
           ]}
-          imageSrc="https://images.pexels.com/photos/5953495/pexels-photo-5953495.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+          imageSrc="https://images.pexels.com/photos/157675/fashion-men-s-individuality-black-and-white-157675.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
           imageAlt="Fresh wood-fired pizza with melted cheese and herbs"
         />
       </div>
@@ -181,7 +181,7 @@ export default function Home() {
             required: true
           }}
           buttonText="Send Message"
-          imageSrc="https://images.pexels.com/photos/29626980/pexels-photo-29626980.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_346q1PwyWBLFgxn5R5gWYFVRO0Y/tmp/hello-1761331242206-af04dcf7.jpg"
           imageAlt="Pizza chef working in wood-fired oven kitchen"
           mediaPosition="right"
         />
